@@ -1,6 +1,7 @@
 # Flutter Tutorial
 
-List beberapa tutorial dan contoh code mengenai Flutter dengan bahasa Indonesia.
+List beberapa tutorial dan contoh code mengenai Flutter dengan bahasa Indonesia. Beberapa tutorial ini bisa Anda dapatkan pada blog saya resmi di https:wisnuwiry.space.
+
 
 ## Plugin/Library Tutorial
 
